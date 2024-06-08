@@ -1,5 +1,5 @@
 {
-    "name": "captioning/captioning",
+    "name": "200-0k/captioning",
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
